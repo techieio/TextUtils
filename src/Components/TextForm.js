@@ -92,7 +92,7 @@ export default function TextForm(props) {
               return element.length !== 0;
             }).length
           }{" "}
-          Words and {text.length}characters
+          Words and {text.length} characters
         </p>
         <p>
           {0.008 *
